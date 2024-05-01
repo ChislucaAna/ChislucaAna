@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ChislucaAna
+- 👀 I’m interested in C#, JavaScript and C++
+- 🌱 I’m currently learning C#
+- 📫 How to reach me ana.chisluca.code@gmail.com
